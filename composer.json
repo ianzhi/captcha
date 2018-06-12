@@ -1,0 +1,17 @@
+{
+    "name": "ianzhi/captcha",
+    "description": "验证码包",
+    "type": "library",
+    "authors": [
+        {
+            "name": "ianzhi",
+            "email": "ianzhi@126.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "IanZhi\\Captcha\\": "src/"
+        }
+    } 
+}
